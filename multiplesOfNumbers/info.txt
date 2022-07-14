@@ -1,0 +1,8 @@
+Question: If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+Find the sum of all the multiples of 3 or 5 below 1000.
+
+logic behind solution:
+"i" is a range of numbers which consists of numbers between 1 and 1000.
+we need numbers which are multiples of 3 and 5, that was checked by the if statement, which filters us the "i" those are multiples of either 3 or 5.
+Then we need sum of the multiples of 3 and 5.
