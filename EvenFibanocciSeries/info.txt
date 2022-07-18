@@ -1,0 +1,8 @@
+we need to calculate sum of even fibonacci series, where the maximum value is 4000000.
+
+Logic behind solution:
+
+1. The sequence list consists of fibonacci numbers. Where the result list has the sum of even fibonacci numbers.
+2. 'n' is the temporary variable, used to update the sequence list.
+3. The addition of the last two numbers in sequence list gives the next number in that list.
+4. The sum of even numbers is calculated and stored in the result.
